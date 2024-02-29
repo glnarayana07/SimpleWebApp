@@ -97,7 +97,7 @@ h1{
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
 		<li><a href="#contact">Contact</a></li> 
-		<li><a href="#contact">Contact</a></li>
+		<li><a href="#cell">cell</a></li>
 
             </ul>
 		
