@@ -102,7 +102,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipkart Mobile offers will be ended on 1st july 2023, Flipkart Laptop offers will be ended on 5th july 2023</h1>             
+         <h1>Flipkart Mobile offers will be ended on 1st july 2023, Flipkart Laptop offers will be ended on 5th september 2023</h1>             
 
 	 
 
